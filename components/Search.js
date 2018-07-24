@@ -27,7 +27,7 @@ handleChange: function(event) {
 
 render: function() {
     var styles = {
-      fontSize: '1.5em', 
+      fontSize: '0.7em', 
     	width: '90%',
     	maxWidth: '350px'
     };
