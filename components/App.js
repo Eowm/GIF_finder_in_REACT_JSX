@@ -1,5 +1,4 @@
 App = React.createClass({
-
     getInitialState() {
         return {
             loading: false,
@@ -37,9 +36,6 @@ App = React.createClass({
         };
         xhr.send();
     },
-
-
-
 
     render: function() {
          var styles = {
