@@ -29,7 +29,7 @@ render: function() {
     var styles = {
       fontSize: '0.7em', 
     	width: '90%',
-    	maxWidth: '350px'
+    	maxWidth: '500px'
     };
 
     return <input 
